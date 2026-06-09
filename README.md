@@ -1,17 +1,14 @@
 # mNetwork
 
-`mNetwork` provides R functions for **conditional, non-parametric,
+`mNetwork` provides R functions for **conditional, nonparametric,
 inference-based** network construction, designed in particular for microbiome
 co-occurrence networks.
 
 This repository provides the R functions for the paper:
 
-> Hoseung Song, Yunhua Xiang, Hongjiao Liu, Wodan Ling, Anna M. Plantinga,
-> Sujatha Srinivasan, Yuzheng Dun, Ni Zhao, Shan Sun, Anthony Fodor,
-> Stephanie M. Engel, Noah Simon, and Michael C. Wu.
 > **Constructing microbiome co-occurrence networks with confidence: A
-> conditional, non-parametric, inference-based approach.**
-> *(journal / year / volume:pages — to be updated upon publication)*
+> conditional, nonparametric, inference-based approach.**
+> Hoseung Song, Yunhua Xiang et al.
 
 The method is built on the **Scaled Expected Conditional Covariance (SEcov)**:
 
