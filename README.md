@@ -191,4 +191,4 @@ res$cut
 
 ## Maintainer
 
-Hoseung Song (`hsong3@fredhutch.org`)
+Hoseung Song (`hoseung@kaist.ac.kr`)
