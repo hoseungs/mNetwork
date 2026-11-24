@@ -9,7 +9,7 @@ This repository provides the R functions for the paper:
 > **Constructing microbiome co-occurrence networks with confidence: A
 > conditional, nonparametric, inference-based approach.**
 
-> Hoseung Song, Yunhua Xiang et al.
+> [Hoseung Song, Yunhua Xiang et al.](https://www.biorxiv.org/content/10.64898/2026.08.27.747483v1.full.pdf)
 
 The method is built on the **Scaled Expected Conditional Covariance (SEcov)**:
 
